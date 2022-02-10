@@ -18,11 +18,11 @@ public class Product {
 	}
 	
 	public void setName(String name) {
-		this.nombre = name;
+		this.nombre=name;
 	}
 	
 	public void setPrice(Double precio) {
-		this.precio = precio;
+		this.precio=precio;
 	}
 	
 }
